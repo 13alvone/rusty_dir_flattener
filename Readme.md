@@ -1,4 +1,4 @@
-# rusty_regex
+# Directory Flattener
 This project provides a binary that takes an input string, and preps it for regex usage, effectively replacing known generics and producing a usage-regex string for programmatic parsing.
 
 This project provides a binary that takes a directory path as input, and flattens the contents of said directory recursively, bringing all files to the input directory root, while deleteing any resulting empty directories
